@@ -1,0 +1,2 @@
+Q1: Why might we consider using Git?
+Answer: Git is basically a change tracking system that improves collaboration with others and allows the user to rewind if a mistake has been made.
