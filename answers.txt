@@ -3,3 +3,9 @@ Answer: Git is basically a change tracking system that improves collaboration wi
 
 Q2: What field could data science be applied to? Give an Example.
 Answer: Data science can be used in healthcare, for example finding patterns in medical records.
+
+Q3: What is the difference between Merging and Rebasing?
+Answer: Merge combines branches with a new commit, rebase rewrites history to look cleaner.
+
+Q4: What are you looking forward to this semester?
+Answer: Learning new tools and working on real data projects.
